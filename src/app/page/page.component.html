@@ -1,0 +1,52 @@
+<div class="bootstrap-wrapper">
+    <div class="container text-center mt">
+        <h1 id="login1" class="text-center1" style="font-weight: bold; margin-top: 5%; font-size: 30px; "> welcome to page</h1>
+   
+ <button (click)="btnclickevent" id="clickbutton"  mat-raised-button color="primary" style="margin-top: 20px;" > click</button>
+    </div>
+    </div>
+    <br>
+    <br>
+<form>
+  <mat-form-field class="country" style="margin-left: 38%; width: 25%">
+    <input
+    id="searchinput"
+      placeholder="Search for countries"
+      matInput
+      [matAutocomplete]="auto"
+      [formControl]="myControl"
+    />
+    <mat-autocomplete #auto="matAutocomplete">
+      <mat-option
+        style="
+          width: 100%;
+          display: inline-block;
+          flex-grow: 9;
+          overflow: visible;
+          text-overflow: initial;
+          text-overflow: initial;
+        "
+        *ngFor="let item of filteredOptions  | async | paginate: { itemsPerPage: 4, currentPage: p }"
+        [value]="item"
+      >
+        {{item}}
+      </mat-option>
+
+      <div class=pagination1 style="margin-bottom: 10px;">
+      <pagination-controls 
+      previousLabel
+      nextLabel 
+       (pageChange)="p = $event" (click)="$event.stopPropagation()"></pagination-controls></div>
+     </mat-autocomplete>
+  </mat-form-field>
+</form>    
+
+<div id="map" style="height: 380px; width: 350px; margin-left: 39%;" ></div>
+
+
+    
+
+
+
+
+         

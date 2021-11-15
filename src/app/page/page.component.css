@@ -1,0 +1,96 @@
+@media screen and (min-width:320px) and (max-width:600px){
+    h1 #login1.text-center1 {
+       font-weight: bold;
+   margin-top: 5%;
+   font-size: 20px;
+   margin-right: 14%;
+   }
+
+.clickbutton {
+   margin-top: 1px;
+   margin-right: 21%;
+  }
+}
+
+.formcontrol {
+   margin-left: 0%;
+}
+
+
+.searchForm_input {
+   color: #78695D;
+   background: transparent;
+   border: none;
+   border-bottom: 3px solid rgba(92, 28, 194, 0.4);
+   font-size: 1.5em;
+   line-height: 1.33333em;
+   letter-spacing: -.02em;
+   margin-bottom: 1em;
+   display: block;
+   margin: 0 auto;
+   border-top-style: hidden;
+   border-right-style: hidden;
+   border-left-style: hidden;
+   border-bottom-style: groove;
+}
+
+
+
+.s129 form .inner-form .input-field input {
+   height: 100%;
+   width: 100%;
+   background: transparent;
+   border: 0;
+   border-bottom: 2px solid rgba(255, 255, 255, 0.5);
+   display: block;
+   width: 100%;
+   padding: 10px 32px 10px 70px;
+   font-size: 18px;
+   color: #fff;
+   transition: all .2s ease-out, color .2s ease-out;
+}
+
+.search {
+   height: 64px;
+   width:50%;
+   text-align: center;
+   margin-left: 30%;
+   
+}
+
+.search input{
+   width: calc(100%-180px);
+   padding:10px 15px;
+   margin-right: 15px;
+   background-color: transparent;
+   outline: none;
+   border: none;
+   border-bottom: 2px solid grey;
+   width: 45%;
+
+}
+
+.search button {
+   padding: 10px 15px;
+   background-color:transparent;
+   border: 2px solid blue;
+}
+
+
+.mat-option-text {
+   width: 100%;
+   display: inline-block;
+   flex-grow: 9;
+   overflow: visible;
+   text-overflow: initial;
+}
+
+.pagination1 {
+   display: flex;
+   justify-content: center;
+   font-size: small;
+ }
+ 
+
+ 
+ 

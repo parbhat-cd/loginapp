@@ -1,0 +1,221 @@
+[2021-11-10 10:44:40]	reached signin api
+[2021-11-10 10:44:40]	reached campaigns api
+[2021-11-10 10:44:40]	reached campaign-info api
+[2021-11-10 10:44:40]	reached campaign-info api
+[2021-11-10 10:44:40]	reached campaign-info api
+[2021-11-10 10:44:40]	reached campaigns api
+[2021-11-10 10:44:40]	reached campaigns api
+[2021-11-10 10:44:40]	reached campaign-info api
+[2021-11-10 10:44:40]	reached signin api
+[2021-11-10 10:44:40]	reached signin api
+[2021-11-10 10:44:40]	Reached Analytics api
+[2021-11-10 10:44:40]	reached campaign-info api
+[2021-11-10 10:44:40]	reached campaign-info api
+[2021-11-10 10:44:40]	reached campaign-info api
+[2021-11-10 10:44:40]	reached campaign-info api
+[2021-11-10 10:44:40]	reached signin api
+[2021-11-10 10:44:40]	reached audience api
+[2021-11-10 10:44:40]	reached Re-Targeting Campaigns
+[2021-11-10 10:44:40]	reached signin api
+[2021-11-10 10:44:40]	reached signin api
+[2021-11-10 10:44:40]	inside the unzip--->>
+[2021-11-10 10:44:41]	inside the unzip--->>
+[2021-11-10 10:44:42]	Reached Analytics api
+[2021-11-10 10:44:42]	Reached Analytics api
+[2021-11-10 10:44:42]	reached campaigns api
+[2021-11-10 10:44:42]	reached campaigns api
+[2021-11-10 10:44:42]	reached campaigns api
+[2021-11-10 10:44:42]	reached campaigns api
+[2021-11-10 10:44:42]	reached campaigns api
+[2021-11-10 10:44:42]	Reached getCampaignsBanner API
+[2021-11-10 10:44:42]	reached campaigns api
+[2021-11-10 10:44:42]	inside the zip files--->>
+[2021-11-10 10:44:43]	Server running on localhost:5502
+[2021-11-10 10:44:48]	{}
+[2021-11-10 10:44:48]	Calling CORS {"Bucket":"cd_cdn","CORSConfiguration":{"CORSRules":[{"AllowedMethods":["GET","POST"],"AllowedOrigins":["*"],"AllowedHeaders":["*"],"ExposeHeaders":["x-amz-server-side-encryption"],"MaxAgeSeconds":3000}]}}
+[2021-11-10 10:44:48]	{}
+[2021-11-10 10:44:48]	Calling CORS {"Bucket":"geoadportaltest","CORSConfiguration":{"CORSRules":[{"AllowedMethods":["GET","POST"],"AllowedOrigins":["*"],"AllowedHeaders":["*"],"ExposeHeaders":["x-amz-server-side-encryption"],"MaxAgeSeconds":3000}]}}
+[2021-11-10 10:44:48]	{}
+[2021-11-10 10:44:48]	Calling CORS {"Bucket":"geoadportaltest","CORSConfiguration":{"CORSRules":[{"AllowedMethods":["GET","POST"],"AllowedOrigins":["*"],"AllowedHeaders":["*"],"ExposeHeaders":["x-amz-server-side-encryption"],"MaxAgeSeconds":3000}]}}
+[2021-11-10 10:44:48]	{}
+[2021-11-10 10:44:48]	Calling CORS {"Bucket":"cd_cdn","CORSConfiguration":{"CORSRules":[{"AllowedMethods":["GET","POST"],"AllowedOrigins":["*"],"AllowedHeaders":["*"],"ExposeHeaders":["x-amz-server-side-encryption"],"MaxAgeSeconds":3000}]}}
+[2021-11-10 10:44:48]	{}
+[2021-11-10 10:44:48]	Calling CORS {"Bucket":"geoadportaltest","CORSConfiguration":{"CORSRules":[{"AllowedMethods":["GET","POST"],"AllowedOrigins":["*"],"AllowedHeaders":["*"],"ExposeHeaders":["x-amz-server-side-encryption"],"MaxAgeSeconds":3000}]}}
+[2021-11-10 10:44:48]	{}
+[2021-11-10 10:44:48]	Calling CORS {"Bucket":"geoadportaltest","CORSConfiguration":{"CORSRules":[{"AllowedMethods":["GET","POST"],"AllowedOrigins":["*"],"AllowedHeaders":["*"],"ExposeHeaders":["x-amz-server-side-encryption"],"MaxAgeSeconds":3000}]}}
+[2021-11-10 10:44:49]	Cors reply
+[2021-11-10 10:44:49]	{"message":"A conflicting conditional operation is currently in progress against this resource. Please try again.","code":"OperationAborted","region":null,"time":"2021-11-10T05:14:49.553Z","requestId":"KG1WPDEFSZ7CE07W","extendedRequestId":"HSujk03haHhDPKAsrNJtYSbSaU+rs4jVd40rn96KRZNPk5f6Q4IpGK4GYvBdajFMnWj5xW7abqc=","statusCode":409,"retryable":false,"retryDelay":73.24798320393846} OperationAborted: A conflicting conditional operation is currently in progress against this resource. Please try again.
+    at Request.extractError (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\services\s3.js:699:35)
+    at Request.callListeners (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\request.js:686:14)
+    at Request.transition (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\request.js:688:12)
+    at Request.callListeners (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\sequential_executor.js:116:18)
+    at Request.emit (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\request.js:686:14)
+    at Request.transition (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\request.js:38:9)
+[2021-11-10 10:44:49]	Cors reply
+[2021-11-10 10:44:49]	{}
+[2021-11-10 10:44:49]	Added Cors
+[2021-11-10 10:44:49]	Cors reply
+[2021-11-10 10:44:49]	{}
+[2021-11-10 10:44:49]	Added Cors
+[2021-11-10 10:44:49]	Cors reply
+[2021-11-10 10:44:49]	{}
+[2021-11-10 10:44:49]	Added Cors
+[2021-11-10 10:44:49]	Cors reply
+[2021-11-10 10:44:49]	{}
+[2021-11-10 10:44:49]	Added Cors
+[2021-11-10 10:44:56]	Cors reply
+[2021-11-10 10:44:56]	{}
+[2021-11-10 10:44:56]	Added Cors
+[2021-11-10 12:38:40]	reached signin api
+[2021-11-10 12:38:40]	reached campaigns api
+[2021-11-10 12:38:40]	reached campaign-info api
+[2021-11-10 12:38:40]	reached campaign-info api
+[2021-11-10 12:38:40]	reached campaign-info api
+[2021-11-10 12:38:40]	reached campaigns api
+[2021-11-10 12:38:40]	reached campaigns api
+[2021-11-10 12:38:40]	reached campaign-info api
+[2021-11-10 12:38:40]	reached signin api
+[2021-11-10 12:38:40]	reached signin api
+[2021-11-10 12:38:40]	Reached Analytics api
+[2021-11-10 12:38:40]	reached campaign-info api
+[2021-11-10 12:38:40]	reached campaign-info api
+[2021-11-10 12:38:40]	reached campaign-info api
+[2021-11-10 12:38:40]	reached campaign-info api
+[2021-11-10 12:38:40]	reached signin api
+[2021-11-10 12:38:40]	reached audience api
+[2021-11-10 12:38:40]	reached Re-Targeting Campaigns
+[2021-11-10 12:38:40]	reached signin api
+[2021-11-10 12:38:40]	reached signin api
+[2021-11-10 12:38:40]	inside the unzip--->>
+[2021-11-10 12:38:40]	inside the unzip--->>
+[2021-11-10 12:38:40]	Reached Analytics api
+[2021-11-10 12:38:40]	Reached Analytics api
+[2021-11-10 12:38:40]	reached campaigns api
+[2021-11-10 12:38:40]	reached campaigns api
+[2021-11-10 12:38:40]	reached campaigns api
+[2021-11-10 12:38:40]	reached campaigns api
+[2021-11-10 12:38:40]	reached campaigns api
+[2021-11-10 12:38:40]	Reached getCampaignsBanner API
+[2021-11-10 12:38:40]	reached campaigns api
+[2021-11-10 12:38:40]	inside the zip files--->>
+[2021-11-10 12:38:41]	Server running on localhost:5502
+[2021-11-10 12:38:42]	{}
+[2021-11-10 12:38:42]	Calling CORS {"Bucket":"geoadportaltest","CORSConfiguration":{"CORSRules":[{"AllowedMethods":["GET","POST"],"AllowedOrigins":["*"],"AllowedHeaders":["*"],"ExposeHeaders":["x-amz-server-side-encryption"],"MaxAgeSeconds":3000}]}}
+[2021-11-10 12:38:42]	{}
+[2021-11-10 12:38:42]	Calling CORS {"Bucket":"geoadportaltest","CORSConfiguration":{"CORSRules":[{"AllowedMethods":["GET","POST"],"AllowedOrigins":["*"],"AllowedHeaders":["*"],"ExposeHeaders":["x-amz-server-side-encryption"],"MaxAgeSeconds":3000}]}}
+[2021-11-10 12:38:42]	{}
+[2021-11-10 12:38:42]	Calling CORS {"Bucket":"geoadportaltest","CORSConfiguration":{"CORSRules":[{"AllowedMethods":["GET","POST"],"AllowedOrigins":["*"],"AllowedHeaders":["*"],"ExposeHeaders":["x-amz-server-side-encryption"],"MaxAgeSeconds":3000}]}}
+[2021-11-10 12:38:42]	{}
+[2021-11-10 12:38:42]	Calling CORS {"Bucket":"cd_cdn","CORSConfiguration":{"CORSRules":[{"AllowedMethods":["GET","POST"],"AllowedOrigins":["*"],"AllowedHeaders":["*"],"ExposeHeaders":["x-amz-server-side-encryption"],"MaxAgeSeconds":3000}]}}
+[2021-11-10 12:38:42]	{}
+[2021-11-10 12:38:42]	Calling CORS {"Bucket":"geoadportaltest","CORSConfiguration":{"CORSRules":[{"AllowedMethods":["GET","POST"],"AllowedOrigins":["*"],"AllowedHeaders":["*"],"ExposeHeaders":["x-amz-server-side-encryption"],"MaxAgeSeconds":3000}]}}
+[2021-11-10 12:38:42]	{}
+[2021-11-10 12:38:42]	Calling CORS {"Bucket":"cd_cdn","CORSConfiguration":{"CORSRules":[{"AllowedMethods":["GET","POST"],"AllowedOrigins":["*"],"AllowedHeaders":["*"],"ExposeHeaders":["x-amz-server-side-encryption"],"MaxAgeSeconds":3000}]}}
+[2021-11-10 12:38:43]	Cors reply
+[2021-11-10 12:38:43]	{}
+[2021-11-10 12:38:43]	Added Cors
+[2021-11-10 12:38:43]	Cors reply
+[2021-11-10 12:38:43]	{"message":"A conflicting conditional operation is currently in progress against this resource. Please try again.","code":"OperationAborted","region":null,"time":"2021-11-10T07:08:43.452Z","requestId":"8VYBGFJWGX54KYPN","extendedRequestId":"/NHqVU1Thq5eKYKbJIEha8bjDL2jMn9fYfugmybB/UR94ErLMdIQKJ6XWNwne7SKsI55RO0y3p4=","statusCode":409,"retryable":false,"retryDelay":83.07066114716883} OperationAborted: A conflicting conditional operation is currently in progress against this resource. Please try again.
+    at Request.extractError (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\services\s3.js:699:35)
+    at Request.callListeners (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\request.js:686:14)
+    at Request.transition (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\request.js:688:12)
+    at Request.callListeners (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\sequential_executor.js:116:18)
+    at Request.emit (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\request.js:686:14)
+    at Request.transition (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\request.js:38:9)
+[2021-11-10 12:38:43]	Cors reply
+[2021-11-10 12:38:43]	{}
+[2021-11-10 12:38:43]	Added Cors
+[2021-11-10 12:38:43]	Cors reply
+[2021-11-10 12:38:43]	{}
+[2021-11-10 12:38:43]	Added Cors
+[2021-11-10 12:38:43]	Cors reply
+[2021-11-10 12:38:43]	{}
+[2021-11-10 12:38:43]	Added Cors
+[2021-11-10 12:38:43]	Cors reply
+[2021-11-10 12:38:43]	{}
+[2021-11-10 12:38:43]	Added Cors
+[2021-11-10 13:25:23]	reached signin api
+[2021-11-10 13:25:23]	reached campaigns api
+[2021-11-10 13:25:23]	reached campaign-info api
+[2021-11-10 13:25:23]	reached campaign-info api
+[2021-11-10 13:25:23]	reached campaign-info api
+[2021-11-10 13:25:23]	reached campaigns api
+[2021-11-10 13:25:23]	reached campaigns api
+[2021-11-10 13:25:23]	reached campaign-info api
+[2021-11-10 13:25:23]	reached signin api
+[2021-11-10 13:25:23]	reached signin api
+[2021-11-10 13:25:23]	Reached Analytics api
+[2021-11-10 13:25:23]	reached campaign-info api
+[2021-11-10 13:25:23]	reached campaign-info api
+[2021-11-10 13:25:23]	reached campaign-info api
+[2021-11-10 13:25:23]	reached campaign-info api
+[2021-11-10 13:25:23]	reached signin api
+[2021-11-10 13:25:23]	reached audience api
+[2021-11-10 13:25:23]	reached Re-Targeting Campaigns
+[2021-11-10 13:25:23]	reached signin api
+[2021-11-10 13:25:23]	reached signin api
+[2021-11-10 13:25:23]	inside the unzip--->>
+[2021-11-10 13:25:25]	inside the unzip--->>
+[2021-11-10 13:25:25]	Reached Analytics api
+[2021-11-10 13:25:25]	Reached Analytics api
+[2021-11-10 13:25:25]	reached campaigns api
+[2021-11-10 13:25:25]	reached campaigns api
+[2021-11-10 13:25:25]	reached campaigns api
+[2021-11-10 13:25:25]	reached campaigns api
+[2021-11-10 13:25:25]	reached campaigns api
+[2021-11-10 13:25:25]	Reached getCampaignsBanner API
+[2021-11-10 13:25:25]	reached campaigns api
+[2021-11-10 13:25:25]	inside the zip files--->>
+[2021-11-10 13:25:29]	Server running on localhost:5502
+[2021-11-10 13:25:30]	{}
+[2021-11-10 13:25:30]	Calling CORS {"Bucket":"geoadportaltest","CORSConfiguration":{"CORSRules":[{"AllowedMethods":["GET","POST"],"AllowedOrigins":["*"],"AllowedHeaders":["*"],"ExposeHeaders":["x-amz-server-side-encryption"],"MaxAgeSeconds":3000}]}}
+[2021-11-10 13:25:34]	Cors reply
+[2021-11-10 13:25:34]	{}
+[2021-11-10 13:25:34]	Added Cors
+[2021-11-10 13:25:51]	{}
+[2021-11-10 13:25:51]	Calling CORS {"Bucket":"geoadportaltest","CORSConfiguration":{"CORSRules":[{"AllowedMethods":["GET","POST"],"AllowedOrigins":["*"],"AllowedHeaders":["*"],"ExposeHeaders":["x-amz-server-side-encryption"],"MaxAgeSeconds":3000}]}}
+[2021-11-10 13:25:51]	{}
+[2021-11-10 13:25:51]	Calling CORS {"Bucket":"cd_cdn","CORSConfiguration":{"CORSRules":[{"AllowedMethods":["GET","POST"],"AllowedOrigins":["*"],"AllowedHeaders":["*"],"ExposeHeaders":["x-amz-server-side-encryption"],"MaxAgeSeconds":3000}]}}
+[2021-11-10 13:25:51]	{}
+[2021-11-10 13:25:51]	Calling CORS {"Bucket":"geoadportaltest","CORSConfiguration":{"CORSRules":[{"AllowedMethods":["GET","POST"],"AllowedOrigins":["*"],"AllowedHeaders":["*"],"ExposeHeaders":["x-amz-server-side-encryption"],"MaxAgeSeconds":3000}]}}
+[2021-11-10 13:25:51]	{}
+[2021-11-10 13:25:51]	Calling CORS {"Bucket":"geoadportaltest","CORSConfiguration":{"CORSRules":[{"AllowedMethods":["GET","POST"],"AllowedOrigins":["*"],"AllowedHeaders":["*"],"ExposeHeaders":["x-amz-server-side-encryption"],"MaxAgeSeconds":3000}]}}
+[2021-11-10 13:25:52]	Cors reply
+[2021-11-10 13:25:52]	{}
+[2021-11-10 13:25:52]	Added Cors
+[2021-11-10 13:25:52]	Cors reply
+[2021-11-10 13:25:52]	{}
+[2021-11-10 13:25:52]	Added Cors
+[2021-11-10 13:26:13]	Cors reply
+[2021-11-10 13:26:13]	{}
+[2021-11-10 13:26:13]	Added Cors
+[2021-11-10 13:29:54]	{}
+[2021-11-10 13:29:54]	Calling CORS {"Bucket":"cd_cdn","CORSConfiguration":{"CORSRules":[{"AllowedMethods":["GET","POST"],"AllowedOrigins":["*"],"AllowedHeaders":["*"],"ExposeHeaders":["x-amz-server-side-encryption"],"MaxAgeSeconds":3000}]}}
+[2021-11-10 13:29:55]	Cors reply
+[2021-11-10 13:29:55]	{}
+[2021-11-10 13:29:55]	Added Cors
+[2021-11-10 13:29:59]	Cors reply
+[2021-11-10 13:29:59]	{}
+[2021-11-10 13:29:59]	Added Cors
+[2021-11-10 13:43:28]	req.connection.remoteAddress::  127.0.0.1
+[2021-11-10 13:43:28]	@getPendingQA  http://54.225.122.8:7000/audience/qa/geofence/v1?page=1&pageSize=1&qa=ayushi@chalkdigital.com

@@ -1,0 +1,185 @@
+[2021-11-12 00:30:31]	reached signin api
+[2021-11-12 00:30:31]	reached campaigns api
+[2021-11-12 00:30:31]	reached campaign-info api
+[2021-11-12 00:30:31]	reached campaign-info api
+[2021-11-12 00:30:31]	reached campaign-info api
+[2021-11-12 00:30:31]	reached campaigns api
+[2021-11-12 00:30:31]	reached campaigns api
+[2021-11-12 00:30:31]	reached campaign-info api
+[2021-11-12 00:30:31]	reached signin api
+[2021-11-12 00:30:31]	reached signin api
+[2021-11-12 00:30:31]	Reached Analytics api
+[2021-11-12 00:30:31]	reached campaign-info api
+[2021-11-12 00:30:31]	reached campaign-info api
+[2021-11-12 00:30:31]	reached campaign-info api
+[2021-11-12 00:30:31]	reached campaign-info api
+[2021-11-12 00:30:31]	reached signin api
+[2021-11-12 00:30:31]	reached audience api
+[2021-11-12 00:30:31]	reached Re-Targeting Campaigns
+[2021-11-12 00:30:31]	reached signin api
+[2021-11-12 00:30:31]	reached signin api
+[2021-11-12 00:30:31]	inside the unzip--->>
+[2021-11-12 00:30:32]	inside the unzip--->>
+[2021-11-12 00:30:32]	Reached Analytics api
+[2021-11-12 00:30:32]	Reached Analytics api
+[2021-11-12 00:30:32]	reached campaigns api
+[2021-11-12 00:30:32]	reached campaigns api
+[2021-11-12 00:30:32]	reached campaigns api
+[2021-11-12 00:30:32]	reached campaigns api
+[2021-11-12 00:30:32]	reached campaigns api
+[2021-11-12 00:30:32]	Reached getCampaignsBanner API
+[2021-11-12 00:30:32]	reached campaigns api
+[2021-11-12 00:30:32]	inside the zip files--->>
+[2021-11-12 00:30:35]	Server running on localhost:5502
+[2021-11-12 00:30:35]	{"message":"Inaccessible host: `geoadportaltest.s3.amazonaws.com' at port `undefined'. This service may not be available in the `us-east-1' region.","code":"UnknownEndpoint","region":"us-east-1","hostname":"geoadportaltest.s3.amazonaws.com","retryable":true,"originalError":{"message":"getaddrinfo ENOTFOUND geoadportaltest.s3.amazonaws.com","errno":-3008,"code":"NetworkingError","syscall":"getaddrinfo","hostname":"geoadportaltest.s3.amazonaws.com","region":"us-east-1","retryable":true,"time":"2021-11-11T19:00:35.897Z"},"time":"2021-11-11T19:00:35.897Z"} UnknownEndpoint: Inaccessible host: `geoadportaltest.s3.amazonaws.com' at port `undefined'. This service may not be available in the `us-east-1' region.
+    at Request.ENOTFOUND_ERROR (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\event_listeners.js:529:46)
+    at Request.callListeners (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\request.js:686:14)
+    at error (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\event_listeners.js:361:22)
+    at ClientRequest.<anonymous> (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\http\node.js:99:9)
+    at ClientRequest.emit (events.js:315:20)
+    at ClientRequest.EventEmitter.emit (domain.js:485:12)
+    at TLSSocket.socketErrorListener (_http_client.js:461:9)
+    at TLSSocket.emit (events.js:315:20)
+    at TLSSocket.EventEmitter.emit (domain.js:485:12)
+    at emitErrorNT (internal/streams/destroy.js:96:8)
+    at emitErrorCloseNT (internal/streams/destroy.js:68:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[2021-11-12 00:30:35]	WARNING ::: PDF REPORTS MAY NOT WORK
+[2021-11-12 00:30:36]	{"message":"Inaccessible host: `geoadportaltest.s3.amazonaws.com' at port `undefined'. This service may not be available in the `us-east-1' region.","code":"UnknownEndpoint","region":"us-east-1","hostname":"geoadportaltest.s3.amazonaws.com","retryable":true,"originalError":{"message":"getaddrinfo ENOTFOUND geoadportaltest.s3.amazonaws.com","errno":-3008,"code":"NetworkingError","syscall":"getaddrinfo","hostname":"geoadportaltest.s3.amazonaws.com","region":"us-east-1","retryable":true,"time":"2021-11-11T19:00:36.021Z"},"time":"2021-11-11T19:00:36.021Z"} UnknownEndpoint: Inaccessible host: `geoadportaltest.s3.amazonaws.com' at port `undefined'. This service may not be available in the `us-east-1' region.
+    at Request.ENOTFOUND_ERROR (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\event_listeners.js:529:46)
+    at Request.callListeners (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\request.js:686:14)
+    at error (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\event_listeners.js:361:22)
+    at ClientRequest.<anonymous> (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\http\node.js:99:9)
+    at ClientRequest.emit (events.js:315:20)
+    at ClientRequest.EventEmitter.emit (domain.js:485:12)
+    at TLSSocket.socketErrorListener (_http_client.js:461:9)
+    at TLSSocket.emit (events.js:315:20)
+    at TLSSocket.EventEmitter.emit (domain.js:485:12)
+    at emitErrorNT (internal/streams/destroy.js:96:8)
+    at emitErrorCloseNT (internal/streams/destroy.js:68:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[2021-11-12 00:30:36]	WARNING ::: PDF REPORTS MAY NOT WORK
+[2021-11-12 00:30:36]	{"message":"Inaccessible host: `s3.amazonaws.com' at port `undefined'. This service may not be available in the `us-east-1' region.","code":"UnknownEndpoint","region":"us-east-1","hostname":"s3.amazonaws.com","retryable":true,"originalError":{"message":"getaddrinfo ENOTFOUND s3.amazonaws.com","errno":-3008,"code":"NetworkingError","syscall":"getaddrinfo","hostname":"s3.amazonaws.com","region":"us-east-1","retryable":true,"time":"2021-11-11T19:00:36.144Z"},"time":"2021-11-11T19:00:36.144Z"} UnknownEndpoint: Inaccessible host: `s3.amazonaws.com' at port `undefined'. This service may not be available in the `us-east-1' region.
+    at Request.ENOTFOUND_ERROR (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\event_listeners.js:529:46)
+    at Request.callListeners (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\request.js:686:14)
+    at error (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\event_listeners.js:361:22)
+    at ClientRequest.<anonymous> (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\http\node.js:99:9)
+    at ClientRequest.emit (events.js:315:20)
+    at ClientRequest.EventEmitter.emit (domain.js:485:12)
+    at TLSSocket.socketErrorListener (_http_client.js:461:9)
+    at TLSSocket.emit (events.js:315:20)
+    at TLSSocket.EventEmitter.emit (domain.js:485:12)
+    at emitErrorNT (internal/streams/destroy.js:96:8)
+    at emitErrorCloseNT (internal/streams/destroy.js:68:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[2021-11-12 00:30:36]	WARNING ::: PDF REPORTS MAY NOT WORK
+[2021-11-12 00:30:36]	{"message":"Inaccessible host: `geoadportaltest.s3.amazonaws.com' at port `undefined'. This service may not be available in the `us-east-1' region.","code":"UnknownEndpoint","region":"us-east-1","hostname":"geoadportaltest.s3.amazonaws.com","retryable":true,"originalError":{"message":"getaddrinfo ENOTFOUND geoadportaltest.s3.amazonaws.com","errno":-3008,"code":"NetworkingError","syscall":"getaddrinfo","hostname":"geoadportaltest.s3.amazonaws.com","region":"us-east-1","retryable":true,"time":"2021-11-11T19:00:36.158Z"},"time":"2021-11-11T19:00:36.158Z"} UnknownEndpoint: Inaccessible host: `geoadportaltest.s3.amazonaws.com' at port `undefined'. This service may not be available in the `us-east-1' region.
+    at Request.ENOTFOUND_ERROR (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\event_listeners.js:529:46)
+    at Request.callListeners (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\request.js:686:14)
+    at error (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\event_listeners.js:361:22)
+    at ClientRequest.<anonymous> (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\http\node.js:99:9)
+    at ClientRequest.emit (events.js:315:20)
+    at ClientRequest.EventEmitter.emit (domain.js:485:12)
+    at TLSSocket.socketErrorListener (_http_client.js:461:9)
+    at TLSSocket.emit (events.js:315:20)
+    at TLSSocket.EventEmitter.emit (domain.js:485:12)
+    at emitErrorNT (internal/streams/destroy.js:96:8)
+    at emitErrorCloseNT (internal/streams/destroy.js:68:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[2021-11-12 00:30:36]	WARNING ::: PDF REPORTS MAY NOT WORK
+[2021-11-12 00:30:36]	{"message":"Inaccessible host: `s3.amazonaws.com' at port `undefined'. This service may not be available in the `us-east-1' region.","code":"UnknownEndpoint","region":"us-east-1","hostname":"s3.amazonaws.com","retryable":true,"originalError":{"message":"getaddrinfo ENOTFOUND s3.amazonaws.com","errno":-3008,"code":"NetworkingError","syscall":"getaddrinfo","hostname":"s3.amazonaws.com","region":"us-east-1","retryable":true,"time":"2021-11-11T19:00:36.347Z"},"time":"2021-11-11T19:00:36.347Z"} UnknownEndpoint: Inaccessible host: `s3.amazonaws.com' at port `undefined'. This service may not be available in the `us-east-1' region.
+    at Request.ENOTFOUND_ERROR (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\event_listeners.js:529:46)
+    at Request.callListeners (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\request.js:686:14)
+    at error (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\event_listeners.js:361:22)
+    at ClientRequest.<anonymous> (D:\fresh demo\kashmir\geoAd\node_modules\aws-sdk\lib\http\node.js:99:9)
+    at ClientRequest.emit (events.js:315:20)
+    at ClientRequest.EventEmitter.emit (domain.js:485:12)
+    at TLSSocket.socketErrorListener (_http_client.js:461:9)
+    at TLSSocket.emit (events.js:315:20)
+    at TLSSocket.EventEmitter.emit (domain.js:485:12)
+    at emitErrorNT (internal/streams/destroy.js:96:8)
+    at emitErrorCloseNT (internal/streams/destroy.js:68:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[2021-11-12 00:30:36]	WARNING ::: PDF REPORTS MAY NOT WORK
+[2021-11-12 10:56:31]	reached signin api
+[2021-11-12 10:56:31]	reached campaigns api
+[2021-11-12 10:56:31]	reached campaign-info api
+[2021-11-12 10:56:31]	reached campaign-info api
+[2021-11-12 10:56:31]	reached campaign-info api
+[2021-11-12 10:56:31]	reached campaigns api
+[2021-11-12 10:56:31]	reached campaigns api
+[2021-11-12 10:56:31]	reached campaign-info api
+[2021-11-12 10:56:31]	reached signin api
+[2021-11-12 10:56:31]	reached signin api
+[2021-11-12 10:56:31]	Reached Analytics api
+[2021-11-12 10:56:31]	reached campaign-info api
+[2021-11-12 10:56:31]	reached campaign-info api
+[2021-11-12 10:56:31]	reached campaign-info api
+[2021-11-12 10:56:31]	reached campaign-info api
+[2021-11-12 10:56:31]	reached signin api
+[2021-11-12 10:56:31]	reached audience api
+[2021-11-12 10:56:31]	reached Re-Targeting Campaigns
+[2021-11-12 10:56:31]	reached signin api
+[2021-11-12 10:56:31]	reached signin api
+[2021-11-12 10:56:31]	inside the unzip--->>
+[2021-11-12 10:56:33]	inside the unzip--->>
+[2021-11-12 10:56:33]	Reached Analytics api
+[2021-11-12 10:56:33]	Reached Analytics api
+[2021-11-12 10:56:33]	reached campaigns api
+[2021-11-12 10:56:33]	reached campaigns api
+[2021-11-12 10:56:33]	reached campaigns api
+[2021-11-12 10:56:33]	reached campaigns api
+[2021-11-12 10:56:33]	reached campaigns api
+[2021-11-12 10:56:33]	Reached getCampaignsBanner API
+[2021-11-12 10:56:33]	reached campaigns api
+[2021-11-12 10:56:33]	inside the zip files--->>
+[2021-11-12 10:56:36]	Server running on localhost:5502
+[2021-11-12 10:56:38]	{}
+[2021-11-12 10:56:38]	Calling CORS {"Bucket":"geoadportaltest","CORSConfiguration":{"CORSRules":[{"AllowedMethods":["GET","POST"],"AllowedOrigins":["*"],"AllowedHeaders":["*"],"ExposeHeaders":["x-amz-server-side-encryption"],"MaxAgeSeconds":3000}]}}
+[2021-11-12 10:56:38]	{}
+[2021-11-12 10:56:38]	Calling CORS {"Bucket":"cd_cdn","CORSConfiguration":{"CORSRules":[{"AllowedMethods":["GET","POST"],"AllowedOrigins":["*"],"AllowedHeaders":["*"],"ExposeHeaders":["x-amz-server-side-encryption"],"MaxAgeSeconds":3000}]}}
+[2021-11-12 10:56:38]	{}
+[2021-11-12 10:56:38]	Calling CORS {"Bucket":"geoadportaltest","CORSConfiguration":{"CORSRules":[{"AllowedMethods":["GET","POST"],"AllowedOrigins":["*"],"AllowedHeaders":["*"],"ExposeHeaders":["x-amz-server-side-encryption"],"MaxAgeSeconds":3000}]}}
+[2021-11-12 10:56:38]	{}
+[2021-11-12 10:56:38]	Calling CORS {"Bucket":"geoadportaltest","CORSConfiguration":{"CORSRules":[{"AllowedMethods":["GET","POST"],"AllowedOrigins":["*"],"AllowedHeaders":["*"],"ExposeHeaders":["x-amz-server-side-encryption"],"MaxAgeSeconds":3000}]}}
+[2021-11-12 10:56:38]	{}
+[2021-11-12 10:56:38]	Calling CORS {"Bucket":"geoadportaltest","CORSConfiguration":{"CORSRules":[{"AllowedMethods":["GET","POST"],"AllowedOrigins":["*"],"AllowedHeaders":["*"],"ExposeHeaders":["x-amz-server-side-encryption"],"MaxAgeSeconds":3000}]}}
+[2021-11-12 10:56:38]	{}
+[2021-11-12 10:56:38]	Calling CORS {"Bucket":"cd_cdn","CORSConfiguration":{"CORSRules":[{"AllowedMethods":["GET","POST"],"AllowedOrigins":["*"],"AllowedHeaders":["*"],"ExposeHeaders":["x-amz-server-side-encryption"],"MaxAgeSeconds":3000}]}}
+[2021-11-12 10:56:39]	Cors reply
+[2021-11-12 10:56:39]	{}
+[2021-11-12 10:56:39]	Added Cors
+[2021-11-12 10:56:39]	Cors reply
+[2021-11-12 10:56:39]	{}
+[2021-11-12 10:56:39]	Added Cors
+[2021-11-12 10:56:39]	Cors reply
+[2021-11-12 10:56:39]	{}
+[2021-11-12 10:56:39]	Added Cors
+[2021-11-12 10:56:39]	Cors reply
+[2021-11-12 10:56:39]	{}
+[2021-11-12 10:56:39]	Added Cors
+[2021-11-12 10:56:39]	Cors reply
+[2021-11-12 10:56:39]	{}
+[2021-11-12 10:56:39]	Added Cors
+[2021-11-12 10:56:40]	Cors reply
+[2021-11-12 10:56:40]	{}
+[2021-11-12 10:56:40]	Added Cors
+[2021-11-12 13:55:58]	Server running on localhost:5502
+[2021-11-12 13:58:06]	Server running on localhost:5502
+[2021-11-12 14:01:15]	Server running on localhost:5502
+[2021-11-12 14:03:27]	Server running on localhost:5502
+[2021-11-12 14:04:39]	Server running on localhost:5502
+[2021-11-12 14:12:23]	Server running on localhost:5502
+[2021-11-12 14:15:05]	Server running on localhost:5502
+[2021-11-12 14:16:16]	Server running on localhost:5502
+[2021-11-12 18:53:33]	Server running on localhost:5502
