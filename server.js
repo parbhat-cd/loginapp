@@ -29,10 +29,10 @@ if ( environment === 'production' ) {
     // server_detail = {host:"54.225.122.8", self_port:7700, protocol:"http://", env:"production"}
     server_detail = {host:"ip-cmsapi.chalkdigital.com", self_port:7700, protocol:"http://", env:"prod", kabootar_host : "35.212.39.109", kabootar_port : "8062",under_mode:mode}
 } else if(environment === 'staging') {
-    port = 5502;
+    port = 9902;
     server_detail = {host:"54.225.122.8", self_port:7000, protocol:"http://", env:"stage", kabootar_host : "35.245.116.133", kabootar_port : "8042",under_mode:mode}
 } else {
-    port = 5501;
+    port = 9902;
     server_detail = {host:"54.225.122.8", self_port:6600, protocol:"http://", env:"other",  kabootar_host : "35.212.41.207", kabootar_port : "8041",under_mode:mode}
 }
 
